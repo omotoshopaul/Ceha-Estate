@@ -1,0 +1,6 @@
+{
+  "name": "Ceha Estate",
+  "description": "Browse, search, and filter verified homes, apartments, land, and commercial properties for sale or rent across Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
